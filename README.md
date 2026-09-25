@@ -1,4 +1,4 @@
 # underdogs-resurrect-ai
 # ResurrectAI - AI-Assisted Data Recovery Workbench
 
-https://resurrectai-seven.vercel.app
+https://underdogs-resurrect-ai-x7.vercel.app
